@@ -12,7 +12,7 @@
 
 ## 📜 Descripción
 
-Este script realiza una extracción de datos mediante fuerza bruta en la plataforma Neogym. Utiliza técnicas de inyección SQL para obtener información sobre bases de datos, tablas, columnas y usuarios con sus contraseñas. El script está optimizado para ser eficiente y proporciona una retroalimentación visual clara durante su ejecución.
+Este script realiza una extracción de datos mediante fuerza bruta para la máquina Gimnasio de la plataforma TheHackersLabs. Utiliza técnicas de inyección SQL para obtener información sobre bases de datos, tablas, columnas y usuarios con sus contraseñas. El script está optimizado para ser eficiente y proporciona una retroalimentación visual clara durante su ejecución.
 
 ---
 
