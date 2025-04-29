@@ -4,9 +4,9 @@
 
 # 🔍 Neogym Data Extractor
 
-![GitHub](https://img.shields.io/github/license/KingWolf/neogym-data-extractor)
-![GitHub stars](https://img.shields.io/github/stars/KingWolf/neogym-data-extractor)
-![GitHub forks](https://img.shields.io/github/forks/KingWolf/neogym-data-extractor)
+![GitHub](https://img.shields.io/github/license/CuriosidadesDeHackers/Neogym-Data-Extractor)
+![GitHub stars](https://img.shields.io/github/stars/CuriosidadesDeHackers/Neogym-Data-Extractor)
+![GitHub forks](https://img.shields.io/github/forks/CuriosidadesDeHackers/Neogym-Data-Extractor)
 
 ---
 
