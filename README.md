@@ -54,6 +54,10 @@ Este script realiza una extracción de datos mediante fuerza bruta para la máqu
 
 ---
 
+## 📸 Demo
+![111](https://github.com/user-attachments/assets/a1498b48-826e-460f-9d1c-7b56003a2a71)
+
+---
 ## 📝 Nota
 
 Este script está diseñado con fines educativos y de prueba. Utilízalo de manera responsable y ética.
